@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Franquias</string>
+    <string name="franquias">Franquias</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="restaurantimage">restaurantImage</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>
